@@ -1,7 +1,7 @@
 # 콘솔 프로젝트
 
-주제 : 책 관련 콘솔 프로그램 제작하기
-설명 및 구현 화면 : https://drive.google.com/file/d/1xMvkFLvEQ41A69abkGK_Gyk-FvW4LKWR/view?usp=sharing
+ - 주제 : 책 관련 콘솔 프로그램 제작하기
+ - 설명 및 구현 화면 : https://drive.google.com/file/d/1xMvkFLvEQ41A69abkGK_Gyk-FvW4LKWR/view?usp=sharing
 
 ## 회원 모드
 
