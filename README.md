@@ -2,6 +2,7 @@
 
  - 주제 : 책 관련 콘솔 프로그램 제작하기
  - 설명 및 구현 화면 : https://drive.google.com/file/d/1xMvkFLvEQ41A69abkGK_Gyk-FvW4LKWR/view?usp=sharing
+ - 2021.06.27 ~ 2021.07.02
 
 ## 회원 모드
 
